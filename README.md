@@ -7,12 +7,14 @@
 - Simple to use and has many functions
 - Developed using Python
 
+---
 # Cloning this repo
 ```sh-session
 git clone https://github.com/emptydev1/dynamicdb.py
 cd dynamicdb.py
 ```
 
+---
 # Setup
 
 <p>Create a file called `requirements.txt` in your project and copy this:</p>
@@ -27,9 +29,10 @@ git+https://github.com/emptydev1/dynamicdb.py.git
 pip install -r requirements.txt
 ```
 
+---
 # How to use the Database?
 
-## Here below are some simple examples of how you can utilize this database:
+<p>Here below are some simple examples of how you can utilize this database:</p>
 
 ```py
 # Importing the database
