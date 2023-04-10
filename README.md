@@ -17,13 +17,13 @@ cd dynamicdb.py
 ---
 # Setup
 
-<p>Create a file called `requirements.txt` in your project and copy this:</p>
+1. Create a file called `requirements.txt` in your project and copy this:
 
 ```txt
 git+https://github.com/emptydev1/dynamicdb.py.git
 ```
 
-<p>After doing so, you must run the following command:</p>
+2. After doing so, you must run the following command:
 
 ```sh-session
 pip install -r requirements.txt
