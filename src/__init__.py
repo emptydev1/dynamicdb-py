@@ -1,5 +1,5 @@
-from lib.utils.constants import constants
-from lib.database import Database
+from src.utils.constants import constants
+from src.database import Database
 
 Database.constants = constants
 
