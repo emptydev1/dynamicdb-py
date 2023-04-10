@@ -1,4 +1,4 @@
-from lib.utils.constants import operators, default_config
+from src.utils.constants import operators, default_config
 from datetime import datetime
 import tempfile
 import shutil
